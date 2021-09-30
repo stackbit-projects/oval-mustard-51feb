@@ -45,6 +45,11 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: faq
     type: section_faq
     background: gray
@@ -72,11 +77,6 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
 seo:
   title: Pricing
   description: This is the pricing page
